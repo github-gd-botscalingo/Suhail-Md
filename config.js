@@ -74,9 +74,9 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "ℂ𝕪𝕓𝕖𝕣 𝐆˚͜˚𝐃",
-  packname: process.env.PACK_NAME || "ℂ𝕪𝕓𝕖𝕣 𝐆˚͜˚𝐃",
-  botname : process.env.BOT_NAME  || "ℂ𝕪𝕓𝕖𝕣 𝐆˚͜˚𝐃",
+  author : process.env.PACK_AUTHER|| "ℂ𝕪𝕓𝕖𝕣 𝐆˚˚𝐃",
+  packname: process.env.PACK_NAME || "ℂ𝕪𝕓𝕖𝕣 𝐆˚˚𝐃",
+  botname : process.env.BOT_NAME  || "ℂ𝕪𝕓𝕖𝕣 𝐆˚˚𝐃",
   ownername:process.env.OWNER_NAME|| "Gihan_Dulakshana",
 
 
